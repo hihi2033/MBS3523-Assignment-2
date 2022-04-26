@@ -20,7 +20,7 @@ t_new = 0
 
 def get_className(classNo):
     if classNo == 0:
-        return "Unknown Person"
+        return "Sheep"
     elif classNo == 1:
         return "Yip"
     elif classNo == 2:
